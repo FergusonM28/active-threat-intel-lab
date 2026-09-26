@@ -1,7 +1,6 @@
-# Active Threat Intel Lab
+# SentinelForge: Active Threat Intelligence & SOC Detection Lab
 Hands-on CTI &amp; SOC lab that turns real, current cybersecurity threats into MITRE ATT&amp;CK-mapped detections, Splunk/KQL queries, and Tier 1 SOC investigation playbooks.
 
-# SentinelForge: Active Threat Intelligence & SOC Detection Lab
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Focus](https://img.shields.io/badge/focus-SOC%20%7C%20CTI%20%7C%20Detection%20Engineering-blue)
